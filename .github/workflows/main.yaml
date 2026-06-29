@@ -5,7 +5,7 @@ on:
       - dev
 env:
   AWS_REGION: us-east-1
-  S3_BUCKET_NAME: nirma-sonia22-dev
+  S3_BUCKET_NAME: testnew-nirma-dev
 jobs:
   deploy:
     runs-on: ubuntu-latest
